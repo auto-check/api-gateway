@@ -1,0 +1,3 @@
+[submodule "protocol-buffer"]
+	path = protocol-buffer
+	url = https://github.com/auto-check/protocol-buffer.git
